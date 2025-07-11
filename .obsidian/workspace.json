@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "8824502bdddfba35",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc70b1a328c4eecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74000d5287a49797",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新規タブ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df379ba454357cc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee549e7d2102848",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e342e46528526b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "c366e4a65df6ea90",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "90d47ced164d6b5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a56217cb7083559",
+    "type": "split",
+    "children": [
+      {
+        "id": "f961d950832be235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d83500b7787725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100_問題/情報処理安全確保支援士試験/平成30年春期 問6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "平成30年春期 問6へのバックリンク"
+            }
+          },
+          {
+            "id": "1a90ef7af9912c05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100_問題/情報処理安全確保支援士試験/平成30年春期 問6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "平成30年春期 問6からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "305140625e5f94cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "1f7e6cc120e77f23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100_問題/情報処理安全確保支援士試験/平成30年春期 問6.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "平成30年春期 問6のアウトライン"
+            }
+          },
+          {
+            "id": "abc933e5b907bcc5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 656.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b1e342e46528526b",
+  "lastOpenFiles": [
+    "100_問題/情報処理安全確保支援士試験/平成30年春期 問6.md",
+    "200_知識/NAPT（Network Address Port Translation）.md",
+    "000_Dairy/2025-07-11.md",
+    "100_問題/情報処理安全確保支援士試験",
+    "200_知識/IDS／IPS（侵入検知システム／侵入防止システム）.md",
+    "200_知識/次世代ファイアウォール（NGFW）.md",
+    "200_知識/ダイナミックパケットフィルタリング.md",
+    "200_知識/NAT（Network Address Translation）.md",
+    "200_知識/SYNパケット.md",
+    "NAPT (Network Address Port Translation).md",
+    "200_知識/シャドーIT.md",
+    "200_知識/VPN（Virtual Private Network）.md",
+    "200_知識/CASB（Cloud Access Security Broker）.md",
+    "200_知識/SSL／TLSインスペクション.md",
+    "200_知識/グローバルユニキャストアドレス.md",
+    "100_問題",
+    "000_Dairy",
+    "000_Inbox/無題のフォルダ",
+    "200_知識",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
