@@ -109,10 +109,14 @@
             "id": "186238d4e66711fa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "200_知識/Smurf攻撃.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Smurf攻撃"
             }
           }
         ],
@@ -276,14 +280,14 @@
   },
   "active": "186238d4e66711fa",
   "lastOpenFiles": [
+    "200_知識/Ping of Death.md",
+    "200_知識/Smurf攻撃.md",
+    "200_知識/SYN Flood攻撃.md",
     "000_Dairy/2025-07-11.md",
     "200_知識/ダイナミックパケットフィルタリング.md",
     "100_問題/情報処理安全確保支援士試験/令和6年秋期 問6.md",
     "200_知識/ICMP（Internet Control Message Protocol）.md",
-    "200_知識/Smurf攻撃.md",
-    "200_知識/SYN Flood攻撃.md",
     "200_知識/SYNパケット.md",
-    "200_知識/Ping of Death.md",
     "200_知識/フラグメンテーション攻撃.md",
     "000_Dairy/2025-07-14.md",
     "200_知識/分散型サービス拒否（DDoS）攻撃.md",
